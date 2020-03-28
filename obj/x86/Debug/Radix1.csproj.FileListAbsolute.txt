@@ -1,0 +1,16 @@
+C:\Users\Henryk\documents\visual studio 2010\Projects\Radix1\Radix1\obj\x86\Debug\Radix.Properties.Resources.resources
+C:\Users\Henryk\documents\visual studio 2010\Projects\Radix1\Radix1\obj\x86\Debug\Radix1.csproj.GenerateResource.Cache
+C:\Users\Henryk\documents\visual studio 2010\Projects\Radix1\Radix1\bin\Debug\Radix.exe
+C:\Users\Henryk\documents\visual studio 2010\Projects\Radix1\Radix1\bin\Debug\Radix.pdb
+C:\Users\Henryk\documents\visual studio 2010\Projects\Radix1\Radix1\obj\x86\Debug\Radix.exe
+C:\Users\Henryk\documents\visual studio 2010\Projects\Radix1\Radix1\obj\x86\Debug\Radix.pdb
+C:\Users\Henryk\documents\visual studio 2010\Projects\Radix1\Radix1\obj\x86\Debug\Radix.overlay.resources
+C:\Users\Henryk\Documents\Visual Studio 2010\Projects\Radix1\Radix1\obj\x86\Debug\Radix1.csprojAssemblyReference.cache
+C:\Users\Henryk\Documents\Visual Studio 2010\Projects\radix\bin\Debug\Radix.exe
+C:\Users\Henryk\Documents\Visual Studio 2010\Projects\radix\bin\Debug\Radix.pdb
+C:\Users\Henryk\Documents\Visual Studio 2010\Projects\radix\obj\x86\Debug\Radix1.csprojAssemblyReference.cache
+C:\Users\Henryk\Documents\Visual Studio 2010\Projects\radix\obj\x86\Debug\Radix.overlay.resources
+C:\Users\Henryk\Documents\Visual Studio 2010\Projects\radix\obj\x86\Debug\Radix.Properties.Resources.resources
+C:\Users\Henryk\Documents\Visual Studio 2010\Projects\radix\obj\x86\Debug\Radix1.csproj.GenerateResource.cache
+C:\Users\Henryk\Documents\Visual Studio 2010\Projects\radix\obj\x86\Debug\Radix.exe
+C:\Users\Henryk\Documents\Visual Studio 2010\Projects\radix\obj\x86\Debug\Radix.pdb

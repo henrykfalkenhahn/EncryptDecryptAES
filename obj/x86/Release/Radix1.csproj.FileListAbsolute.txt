@@ -1,0 +1,8 @@
+C:\Users\Henryk\documents\visual studio 2010\Projects\Radix1\Radix1\obj\x86\Release\Radix.Form1.resources
+C:\Users\Henryk\documents\visual studio 2010\Projects\Radix1\Radix1\obj\x86\Release\Radix.Properties.Resources.resources
+C:\Users\Henryk\documents\visual studio 2010\Projects\Radix1\Radix1\obj\x86\Release\Radix1.csproj.GenerateResource.Cache
+C:\Users\Henryk\documents\visual studio 2010\Projects\Radix1\Radix1\bin\Release\Radix.exe
+C:\Users\Henryk\documents\visual studio 2010\Projects\Radix1\Radix1\bin\Release\Radix.pdb
+C:\Users\Henryk\documents\visual studio 2010\Projects\Radix1\Radix1\obj\x86\Release\Radix.exe
+C:\Users\Henryk\documents\visual studio 2010\Projects\Radix1\Radix1\obj\x86\Release\Radix.pdb
+C:\Users\Henryk\documents\visual studio 2010\Projects\Radix1\Radix1\obj\x86\Release\Radix1.csprojResolveAssemblyReference.cache

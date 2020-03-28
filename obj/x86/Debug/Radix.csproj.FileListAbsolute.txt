@@ -1,0 +1,7 @@
+C:\Users\Henryk\AppData\Local\Temporary Projects\Radix\bin\Debug\Radix.exe
+C:\Users\Henryk\AppData\Local\Temporary Projects\Radix\bin\Debug\Radix.pdb
+C:\Users\Henryk\AppData\Local\Temporary Projects\Radix\obj\x86\Debug\Radix.Form1.resources
+C:\Users\Henryk\AppData\Local\Temporary Projects\Radix\obj\x86\Debug\Radix.Properties.Resources.resources
+C:\Users\Henryk\AppData\Local\Temporary Projects\Radix\obj\x86\Debug\Radix.csproj.GenerateResource.Cache
+C:\Users\Henryk\AppData\Local\Temporary Projects\Radix\obj\x86\Debug\Radix.exe
+C:\Users\Henryk\AppData\Local\Temporary Projects\Radix\obj\x86\Debug\Radix.pdb
